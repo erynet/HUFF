@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "decode", "decode\decode.vcxproj", "{26A9C566-7353-45FB-B5E5-4775281CFEFD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "encode", "encode\encode.vcxproj", "{EDCE6950-0975-4E36-B70B-B7B91A20B8E1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "decode_file", "decode_file\decode_file.vcxproj", "{734F9034-27B9-485F-9830-E261697E1BD7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "encode_file", "encode_file\encode_file.vcxproj", "{23085874-BBE6-491D-8B04-3F6C013DECD4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "encode_binary_file", "encode_binary_file\encode_binary_file.vcxproj", "{85C27181-B891-40FB-A950-1DF69D224CCA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "decode_binary_file", "decode_binary_file\decode_binary_file.vcxproj", "{06BF2742-EFD7-4B77-B3AC-5D41D8714DE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26A9C566-7353-45FB-B5E5-4775281CFEFD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{26A9C566-7353-45FB-B5E5-4775281CFEFD}.Debug|Win32.Build.0 = Debug|Win32
+		{26A9C566-7353-45FB-B5E5-4775281CFEFD}.Release|Win32.ActiveCfg = Release|Win32
+		{26A9C566-7353-45FB-B5E5-4775281CFEFD}.Release|Win32.Build.0 = Release|Win32
+		{EDCE6950-0975-4E36-B70B-B7B91A20B8E1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EDCE6950-0975-4E36-B70B-B7B91A20B8E1}.Debug|Win32.Build.0 = Debug|Win32
+		{EDCE6950-0975-4E36-B70B-B7B91A20B8E1}.Release|Win32.ActiveCfg = Release|Win32
+		{EDCE6950-0975-4E36-B70B-B7B91A20B8E1}.Release|Win32.Build.0 = Release|Win32
+		{734F9034-27B9-485F-9830-E261697E1BD7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{734F9034-27B9-485F-9830-E261697E1BD7}.Debug|Win32.Build.0 = Debug|Win32
+		{734F9034-27B9-485F-9830-E261697E1BD7}.Release|Win32.ActiveCfg = Release|Win32
+		{734F9034-27B9-485F-9830-E261697E1BD7}.Release|Win32.Build.0 = Release|Win32
+		{23085874-BBE6-491D-8B04-3F6C013DECD4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{23085874-BBE6-491D-8B04-3F6C013DECD4}.Debug|Win32.Build.0 = Debug|Win32
+		{23085874-BBE6-491D-8B04-3F6C013DECD4}.Release|Win32.ActiveCfg = Release|Win32
+		{23085874-BBE6-491D-8B04-3F6C013DECD4}.Release|Win32.Build.0 = Release|Win32
+		{85C27181-B891-40FB-A950-1DF69D224CCA}.Debug|Win32.ActiveCfg = Debug|Win32
+		{85C27181-B891-40FB-A950-1DF69D224CCA}.Debug|Win32.Build.0 = Debug|Win32
+		{85C27181-B891-40FB-A950-1DF69D224CCA}.Release|Win32.ActiveCfg = Release|Win32
+		{85C27181-B891-40FB-A950-1DF69D224CCA}.Release|Win32.Build.0 = Release|Win32
+		{06BF2742-EFD7-4B77-B3AC-5D41D8714DE6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{06BF2742-EFD7-4B77-B3AC-5D41D8714DE6}.Debug|Win32.Build.0 = Debug|Win32
+		{06BF2742-EFD7-4B77-B3AC-5D41D8714DE6}.Release|Win32.ActiveCfg = Release|Win32
+		{06BF2742-EFD7-4B77-B3AC-5D41D8714DE6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
